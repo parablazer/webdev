@@ -1,5 +1,5 @@
 .background-1{
-background-image: url(elements/background-1.jpg);
+background-image: url(background-1.jpg);
 background-size: cover;
 background-position: top;
 background-attachment: fixed;
@@ -79,7 +79,7 @@ text-align: center;
 }
 
 #footer{
-  background-image: url(elements/footer-1.jpg);
+  background-image: url(footer-1.jpg);
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
